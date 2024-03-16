@@ -46,6 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\Clasico.cs" />
+    <Compile Include="Clases\ClienteCuenta.cs" />
+    <Compile Include="Clases\Empresa.cs" />
+    <Compile Include="Clases\GestionVenta.cs" />
+    <Compile Include="Clases\ISavable.cs" />
+    <Compile Include="Clases\Pedido.cs" />
+    <Compile Include="Clases\Premium.cs" />
+    <Compile Include="Clases\Producto.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +62,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
