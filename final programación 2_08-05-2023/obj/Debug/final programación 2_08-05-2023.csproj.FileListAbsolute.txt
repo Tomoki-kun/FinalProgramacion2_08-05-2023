@@ -2,3 +2,10 @@ D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2
 D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final_programación_2_08_05_2023.Properties.Resources.resources
 D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final programación 2_08-05-2023.csproj.GenerateResource.cache
 D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final programación 2_08-05-2023.csproj.CoreCompileInputs.cache
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\bin\Debug\final programación 2_08-05-2023.exe.config
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\bin\Debug\final programación 2_08-05-2023.exe
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\bin\Debug\final programación 2_08-05-2023.pdb
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final_programación_2_08_05_2023.Form1.resources
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final programación 2_08-05-2023.exe
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final programación 2_08-05-2023.pdb
+D:\ProjectosVS\Repos\Final Programación 2_08-05-2023\FinalProgramacion2_08-05-2023\final programación 2_08-05-2023\obj\Debug\final_programación_2_08_05_2023.FResumen.resources

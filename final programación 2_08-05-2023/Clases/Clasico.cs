@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace final_programación_2_08_05_2023
 {
+    [Serializable]
     internal class Clasico : Producto
     {
         public Clasico(double precioA, string descripcion)
         {
             precioBaseA = precioA;
-            base.descripcion = descripcion;
+            this.descripcion = descripcion;
         }
 
         public override double Precio(double kilo)

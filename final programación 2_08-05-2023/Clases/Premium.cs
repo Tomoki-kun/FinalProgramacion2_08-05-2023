@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace final_programación_2_08_05_2023.Clases
 {
+    [Serializable]
     internal class Premium : Producto
     {
         private double precioBaseB;
@@ -14,7 +15,7 @@ namespace final_programación_2_08_05_2023.Clases
         {
             precioBaseB = precioB;
             precioBaseA = precioA;
-            base.descripcion = descripcion;
+            this.descripcion = descripcion;
         }
         public override double Precio(double kilo)
         {

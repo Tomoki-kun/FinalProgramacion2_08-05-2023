@@ -8,6 +8,6 @@ namespace final_programación_2_08_05_2023.Clases
 {
     internal interface ISavable
     {
-        bool Escribir();
+        bool Escribir(string ruta);
     }
 }

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace final_programación_2_08_05_2023.Clases
 {
+    [Serializable]
     internal class Empresa
     {
         private long cuit;
